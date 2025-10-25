@@ -18,6 +18,7 @@ Companies also lack insights into how they are **perceived externally**, which c
 
 ## **Solution**
 
+
 **WorkAlign** is an AI-powered research agent that:
 
 1. **Analyzes candidates** — skills, resume, preferences, values, location, salary.
@@ -41,6 +42,8 @@ Companies also lack insights into how they are **perceived externally**, which c
 ---
 
 ## **Architecture Overview**
+
+<img width="1051" height="817" alt="Screenshot 2025-10-25 at 23 57 48" src="https://github.com/user-attachments/assets/ee9f5e30-97dd-4979-83b5-bd118864dcf7" />
 
 
 ## **Tagline / Short Pitch**
